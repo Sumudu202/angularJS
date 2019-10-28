@@ -1,2 +1,2 @@
 # angularJS
-Sample shopping card
+Sample shopping cart
